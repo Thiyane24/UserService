@@ -1,4 +1,4 @@
-package controller;
+package com.first.userservice.controller;
 
 import org.springframework.web.bind.annotation.*;
 import java.util.Map;
